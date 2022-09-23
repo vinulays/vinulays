@@ -20,7 +20,7 @@
 <p align="center">
     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=vinulays&theme=tokyonight&hide_border=true&border_radius=6"/></a>
 </p>
-![LeetCode Stats](https://leetcard.jacoblin.cool/VinuLA?theme=dark&font=Nokora)
+
 ---
 
 ### :woman_technologist: About Me :
