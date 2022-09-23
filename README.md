@@ -59,4 +59,5 @@
 
 ---
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?vinulays=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/vinulays/github-readme-stats)
 
