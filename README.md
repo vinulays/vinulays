@@ -19,7 +19,7 @@
 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vinulays&theme=tokyonight&hide_border=true&border_radius=6)](https://git.io/streak-stats)
 </div>
 
 ---
@@ -62,4 +62,4 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vinulays&theme=tokyonight&hide_border=true&border_radius=6)](https://git.io/streak-stats)
+
