@@ -25,15 +25,15 @@
 
 ### :woman_technologist: About Me :
   
-  I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Sri Lanka.
+  I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Sri Lanka.
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on Leetcode and read tech articles.
+- :zap: In my free time, I solve problems on Leetcode, read tech articles, and play video games.
 
-- :mailbox:How to reach me: vinulapc@gmail.com
+- :mailbox: How to reach me: vinulapc@gmail.com
 
 
 ---
