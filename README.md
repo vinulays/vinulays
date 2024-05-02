@@ -9,6 +9,9 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 - :zap: In my free time, I solve problems on Leetcode, read tech articles, and play video games.
 
 - :mailbox: How to reach me: vinulapc@gmail.com
+
+
+<br/>
  
  <div id="badges">
   <a href="https://www.linkedin.com/in/vinula-senarathne">
