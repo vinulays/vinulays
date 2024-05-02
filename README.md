@@ -18,7 +18,7 @@
 </div>
 
 <p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=vinulays&theme=tokyonight&hide_border=true&border_radius=6"/></a>
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=vinulays&theme=tokyonight&hide_border=true&border_radius=6"/>![](https://github-readme-stats.vercel.app/api?username=vinulays&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/></a>
 </p>
 
 # 💻 Tech Stack:
@@ -43,6 +43,6 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vinulays&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vinulays&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
