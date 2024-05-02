@@ -21,7 +21,7 @@
     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=vinulays&theme=tokyonight&hide_border=true&border_radius=6"/></a>
 </p>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/VinuLA)
+![LeetCode Stats](https://leetcard.jacoblin.cool/VinuLA?theme=dark&font=Basic&ext=activity)
 
 
 ---
