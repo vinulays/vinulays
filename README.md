@@ -28,9 +28,10 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 
 # 📊 GitHub Stats:
 
+ <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=vinulays&theme=radical&hide_border=true&border_radius=6"/></a>
+ 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vinulays&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=vinulays&theme=radical&hide_border=true&border_radius=6"/></a>
 
 
 # 💻 Tech Stack:
