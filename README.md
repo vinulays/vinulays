@@ -25,7 +25,7 @@
 
 ### :woman_technologist: My LeetCode :
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=VinuLA&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+![LeetCode Stats](https://leetcard.jacoblin.cool/VinuLA?theme=dark&font=Basic&ext=activity)
 
 ---
 
