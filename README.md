@@ -26,7 +26,7 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 </div>
   <img src="https://komarev.com/ghpvc/?username=vinulays&style=flat-square&color=blue" alt=""/> 
 
- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=vinulays&theme=tokyonight&hide_border=true&border_radius=6"/></a>
+ <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=vinulays&theme=radical&hide_border=true&border_radius=6"/></a>
 
 
 # 💻 Tech Stack:
