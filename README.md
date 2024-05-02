@@ -3,14 +3,13 @@
 - I am a Full-stack developer. <img src="https://komarev.com/ghpvc/?username=vinulays&style=flat-square&color=blue" alt=""/> 
 
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+- Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on Leetcode, read tech articles, and play video games.
+- In my free time, I solve problems on Leetcode, read tech articles, and play video games.
 
-- :mailbox: How to reach me: vinulapc@gmail.com
-
+- How to reach me: vinulapc@gmail.com
 
 <br/>
  
