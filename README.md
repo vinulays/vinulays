@@ -26,6 +26,10 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 </div>
   <img src="https://komarev.com/ghpvc/?username=vinulays&style=flat-square&color=blue" alt=""/> 
 
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vinulays&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=vinulays&theme=radical&hide_border=true&border_radius=6"/></a>
 
 
@@ -36,7 +40,5 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/VinuLA?theme=dark&font=Basic&ext=activity)
 
-# 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vinulays&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
