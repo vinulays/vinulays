@@ -1,6 +1,6 @@
 # 💻 About Me :
   
-I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Sri Lanka. 
+I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Sri Lanka.  
   <img src="https://komarev.com/ghpvc/?username=vinulays&style=flat-square&color=blue" alt=""/> 
 
 
