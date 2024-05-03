@@ -20,7 +20,7 @@
   <a href="https://twitter.com/vinulapc">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="[https://twitter.com/vinulapc](https://stackoverflow.com/users/16999008/vinula-senarathne)">
+  <a href="https://stackoverflow.com/users/16999008/vinula-senarathne">
     <img src="https://img.shields.io/badge/Stackoverflow-orange?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
