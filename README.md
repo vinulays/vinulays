@@ -25,5 +25,9 @@
             <td><a href="https://github.com/eust-w/rsm">convertify</a> - Browser based video converter tool</td>
             <td><a href="https://github.com/eust-w/obsidian-image-auto-upload">pathfinder</a> - Maze finder using Dijkstra algorithm</td>
         </tr>
+        <tr>
+            <td><a href="https://github.com/eust-w/rsm">flutter-ecommerce</a> - E-commerce mobile app using Flutter!</td>
+            <td><a href="https://github.com/eust-w/obsidian-image-auto-upload">pathfinder</a> - Maze finder using Dijkstra algorithm</td>
+        </tr>
         </table>
 </div>
