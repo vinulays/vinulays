@@ -25,5 +25,9 @@
             <td><a href="https://github.com/eust-w/rsm">convertify</a> - Browser based video converter tool</td>
             <td><a href="https://github.com/eust-w/obsidian-image-auto-upload">pathfinder</a> - Maze finder using Dijkstra algorithm</td>
         </tr>
+          <tr>
+            <td><a href="https://github.com/eust-w/rsm">rsm</a> - RSS subscription function aggregation tool,</td>
+            <td><a href="https://github.com/eust-w/obsidian-image-auto-upload">obsidian image plugin</a> - Upload images from your clipboard obsidian plugin</td>
+        </tr>
      </table>
 </div>
