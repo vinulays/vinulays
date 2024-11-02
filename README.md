@@ -5,7 +5,7 @@
             <img src="cat.webp" width="50"/>
         </a>
     </p>
-    <p align="center">
+    <p align="center" width="100%">
         <a href="https://github.com/eust-w/eust-w/blob/main/README_CN.md"><span>中文</span></a>|
         <a href="https://github.com/eust-w/eust-w/blob/main/README_FR.md"><span>Français</span></a>|
         <a href="https://github.com/eust-w/eust-w/blob/main/README_RU.md"><span>Русский</span></a>|
