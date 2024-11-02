@@ -18,11 +18,11 @@
     <h4 align="left">My Open Source Projects</h4>
     <table align="center">
         <tr>
-            <td><a href="https://github.com/eust-w/gopic">livedocs</a> - Realtime Document collaboration platform</td>
+            <td><a href="https://github.com/eust-w/gopic">livedocs</a> - Edit your documents with realtime collaboration options</td>
             <td><a href="https://github.com/eust-w/esh">recychamp</a> - Mobile app to improve sustainability among kids</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/eust-w/rsm">convertify</a> - Browser based video converter tool</td>
+            <td><a href="https://github.com/eust-w/rsm">convertify</a> - Browser-based video converter tool</td>
             <td><a href="https://github.com/eust-w/obsidian-image-auto-upload">pathfinder</a> - Maze finder using Dijkstra algorithm</td>
         </tr>
         <tr>
