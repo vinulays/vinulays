@@ -19,7 +19,7 @@
     <table align="center">
         <tr>
             <td><a href="https://github.com/eust-w/gopic">livedocs</a> - Realtime Document collaboration platform</td>
-            <td><a href="https://github.com/eust-w/esh">recychamp</a> - Mobile app to improve sustainability</td>
+            <td><a href="https://github.com/eust-w/esh">recychamp</a> - Mobile app to improve sustainability among kids</td>
         </tr>
         <tr>
             <td><a href="https://github.com/eust-w/rsm">convertify</a> - Browser based video converter tool</td>
