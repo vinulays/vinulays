@@ -15,8 +15,8 @@
         <a href="https://github.com/eust-w/eust-w/blob/main/README_TR.md"><span>Türkçe</span></a>
     </p>
     <p>🌟 Welcome to my corner of the coding universe! 🌟</p>
-    <h4 align="left">My Open Source Projects</h4>
-    <table align="center">
+<!--     <h4 align="left">My Open Source Projects</h4> -->
+<!--     <table align="center">
         <tr>
             <td><a href="https://github.com/eust-w/gopic">gopic</a> - Fast image hosting tool</td>
             <td><a href="https://github.com/eust-w/esh">esh</a> - Simple cross-platform SSH link management tool</td>
@@ -37,5 +37,5 @@
             <td><a href="https://github.com/eust-w/ltrobot-mimiwechat">ai chat WeChat applet</a> - Ai chat with ltrobot</td>
             <td><a href="https://github.com/eust-w/gnome-extension-wakwaka">gnome-extension-wakwaka</a> - Gnome-extension</td>
         </tr>
-    </table>
+    </table> -->
 </div>
