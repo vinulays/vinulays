@@ -18,7 +18,7 @@
     <h4 align="left">My Open Source Projects</h4>
     <table align="center">
         <tr>
-            <td><a href="https://github.com/vinulays/live-docs">livedocs</a> - Edit your documents with real-time collaboration options</td>
+            <td><a href="https://github.com/vinulays/live-docs">livedocs</a> - Edit your documents with real-time collaboration options (made with a YouTube tutorial)</td>
             <td><a href="https://github.com/vinulays/recychamp">recychamp</a> - Mobile app to improve sustainability among kids</td>
         </tr>
         <tr>
