@@ -27,7 +27,7 @@
         </tr>
         <tr>
             <td><a href="https://github.com/vinulays/flutter-ecommerce">flutter-ecommerce</a> - E-commerce mobile app using Flutter.</td>
-            <td><a href="https://github.com/vinulays/chatify">chatify</a> - Video conference and collaboration application</td>
+            <td><a href="https://github.com/vinulays/skin-consultation-centre">iSkin Manager</a> - A Java Swing system to manage a skin consultation centre</td>
         </tr>
         <tr>
             <td><a href="https://github.com/vinulays/jobportal-frontend">Job Portal</a> - A Job finding web application using MERN Stack.</td>
