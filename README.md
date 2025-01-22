@@ -31,7 +31,7 @@
         </tr>
         <tr>
             <td><a href="https://github.com/vinulays/jobportal-frontend">Job Portal</a> - A Job finding web application using MERN Stack.</td>
-            <td><a href="https://github.com/vinulays/eventmanagement-frontend"></a> - Event Management web application using Angular and Spring Boot.</td>
+            <td><a href="https://github.com/vinulays/eventmanagement-frontend">Siyasra Event Management</a> - Event Management web application using Angular and Spring Boot.</td>
         </tr>
         </table>
 </div>
