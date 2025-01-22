@@ -18,16 +18,20 @@
     <h4 align="left">My Open Source Projects</h4>
     <table align="center">
         <tr>
-            <td><a href="https://github.com/vinulays/live-docs">livedocs</a> - Edit your documents with realtime collaboration options</td>
+            <td><a href="https://github.com/vinulays/live-docs">livedocs</a> - Edit your documents with real-time collaboration options</td>
             <td><a href="https://github.com/vinulays/recychamp">recychamp</a> - Mobile app to improve sustainability among kids</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/vinulays/video-converter">convertify</a> - Browser-based video converter tool</td>
+            <td><a href="https://github.com/vinulays/video-converter">convertify</a> - Browser-based video converter tool using Next.JS</td>
             <td><a href="https://github.com/vinulays/path-finder">pathfinder</a> - Maze finder using Dijkstra algorithm</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/vinulays/flutter-ecommerce">flutter-ecommerce</a> - E-commerce mobile app using Flutter!</td>
+            <td><a href="https://github.com/vinulays/flutter-ecommerce">flutter-ecommerce</a> - E-commerce mobile app using Flutter.</td>
             <td><a href="https://github.com/vinulays/chatify">chatify</a> - Video conference and collaboration application</td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/vinulays/jobportal-frontend">Job Portal</a> - A Job finding web application using MERN Stack.</td>
+            <td><a href="https://github.com/vinulays/eventmanagement-frontend"></a> - Event Management web application using Angular and Spring Boot.</td>
         </tr>
         </table>
 </div>
